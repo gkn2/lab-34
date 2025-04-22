@@ -1,6 +1,6 @@
 let numbers = [8, 6, 7, 5, 3, 0, 9]
 let states = ["Michigan", "California", "Missouri", "Washington", "Illinois", "Georgia"]
-console.log("Numbers:")
+console.log("#s:")
 console.log(numbers)
 console.log("States:")
 console.log(states)

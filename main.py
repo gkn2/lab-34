@@ -5,7 +5,7 @@ states: List[str] = ["Michigan", "California", "Missouri", "Washington", "Illino
 
 
 
-print("Numbers:")
+print("#s:")
 print(numbers)
 
 print("States:")
